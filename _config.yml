@@ -102,7 +102,7 @@ wikipedia_id: # your wikipedia id (Case sensitive)
 work_url: # work page URL
 x_username: lennertjansen # your X handle
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
-zotero_username: # your zotero username
+zotero_username: lennertjansen # your zotero username
 
 contact_note: >
   you can contact me at [first_name] [last_name] 95 [at] gmail [dot] com
