@@ -1,5 +1,12 @@
 github_users:
-  - lennertjansen
+  - torvalds
+  - alshedivat
 
 github_repos:
-  - lennertjansen/lennertjansen.github.io
+  - alshedivat/al-folio
+  - twbs/bootstrap
+  - jekyll/jekyll
+  - jquery/jquery
+  - FortAwesome/Font-Awesome
+  - jpswalsh/academicons
+  - mathjax/MathJax
