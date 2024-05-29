@@ -19,7 +19,7 @@ social: true # includes social icons at the bottom of the page
 I'm an AI engineer based in Amsterdam, the Netherlands, originally from [Curaçao 🇨🇼](https://en.wikipedia.org/wiki/Cura%C3%A7ao).
 
 Currently:
-- working on LLM agency for tool-use at [Neena](https://neena.io/)
+- building a platform for instructing and deploying tool-using LLMs at [Neena](https://neena.io/)
 - learning about AI alignment and mechanistic interpretability 
 
 I was previously a graduate researcher at Amazon, IBM, and [ILLC](https://www.illc.uva.nl/) where I worked with [prof. dr. Raquel Fernández](https://staff.fnwi.uva.nl/r.fernandezrovira/) and [Sandro Pezzelle](https://sandropezzelle.github.io/).
