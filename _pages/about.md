@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I'm an AI engineer based in Amsterdam (NL), originally from [Curaçao 🇨🇼](https://en.wikipedia.org/wiki/Cura%C3%A7ao).
+I'm an AI engineer based in Amsterdam 🇳🇱, originally from [Curaçao 🇨🇼](https://en.wikipedia.org/wiki/Cura%C3%A7ao).
 
 Currently:
 - building a platform for instructing and deploying tool-using LLMs at [Neena](https://neena.io/)
