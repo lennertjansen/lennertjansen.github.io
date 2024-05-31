@@ -26,4 +26,4 @@ I was previously a graduate researcher at Amazon, IBM, and [ILLC](https://www.il
 
 I'm fascinated by intelligence and both its artificial and biological emergence.
 
-I love music, writing, and language learning.
+I love music, writing, and languages (human and computer).
