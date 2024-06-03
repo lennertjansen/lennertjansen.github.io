@@ -4,7 +4,7 @@
     "label": "AI Engineer",
     "image": "",
     "email": "lennertjansen95@gmail.com",
-    "phone": "+316 12 34 56 78",
+    "phone": "",
     "url": "https://lennert.ai/",
     "summary": "",
     "location": {
@@ -27,8 +27,8 @@
       "name": "Neena",
       "position": "Co-Founder",
       "url": "https://neena.io/",
-      "startDate": "2024-02-01",
-      "endDate": "present",
+      "startDate": "2024-02",
+      "endDate": "now",
       "summary": "Co-founded Neena, where we build intelligent workflow automation.",
       "highlights": ["AI", "Autonomous Agents"]
     }
@@ -39,8 +39,8 @@
       "location": "Zurich, Switzerland",
       "position": "Lead Organizer",
       "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
+      "startDate": "2014-04",
+      "endDate": "2015-07",
       "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
       "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
     }
@@ -49,24 +49,27 @@
     {
       "institution": "University of Amsterdam",
       "location": " Amsterdam, the Netherlands",
-      "url": "https://www.uzh.ch/",
+      "url": "https://www.uva.nl/",
       "area": "Artificial Intelligence",
       "studyType": "MS",
-      "startDate": "2019-09-01",
-      "endDate": "2021-12-01",
+      "startDate": "2019-09",
+      "endDate": "2021-12",
       "score": "8.1 / 10.0 (Cum Laude)",
       "courses": ["Deep Learning", "Natural Language Processing", "Computer Vision"]
-    }
-  ],
-  "awards": [
+    },
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "institution": "Erasmus University Rotterdam",
+      "location": " Rotterdam, the Netherlands",
+      "url": "https://www.eur.nl/",
+      "area": "Econometrics",
+      "studyType": "MS",
+      "startDate": "2018-09",
+      "endDate": "2020-04",
+      "score": "8.2 / 10.0",
+      "courses": ["Bayesian Econometrics","Advanced Statistics", "Advanced Microeconometrics"]
     }
   ],
+  "awards": [],
   "certificates": [
     {
       "name": "Machine Learning",
@@ -151,13 +154,28 @@
   ],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
+      "language": "Dutch",
+      "fluency": "Native",
+      "icon": ""
+    },
+    {
+      "language": "Papiamentu",
+      "fluency": "Native",
       "icon": ""
     },
     {
       "language": "English",
-      "fluency": "Fluent",
+      "fluency": "Native",
+      "icon": ""
+    },
+    {
+      "language": "Spanish",
+      "fluency": "B2",
+      "icon": ""
+    },
+    {
+      "language": "German",
+      "fluency": "B1",
       "icon": ""
     }
   ],
