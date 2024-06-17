@@ -24,6 +24,6 @@ Currently:
 
 I was previously a graduate researcher at Amazon, IBM, and [ILLC](https://www.illc.uva.nl/) where I worked with [prof. dr. Raquel Fernández](https://staff.fnwi.uva.nl/r.fernandezrovira/) and [Sandro Pezzelle](https://sandropezzelle.github.io/).
 
-I'm fascinated by intelligence and both its artificial and biological emergence.
+I'm fascinated by intelligence, both its artificial and biological emergence.
 
-I love music, writing, and languages (human and computer).
+I love music, writing, and languages (human and programming).
