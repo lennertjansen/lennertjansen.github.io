@@ -18,13 +18,13 @@ social: true # includes social icons at the bottom of the page
 
 AI engineer based in Amsterdam 🇳🇱, originally from [Curaçao 🇨🇼](https://en.wikipedia.org/wiki/Cura%C3%A7ao).
 
-I'm fascinated by intelligence, both its artificial and biological emergence.
+Fascinated by intelligence, both its artificial and biological emergence.
 
 I love music, writing, and languages.
-
-I was previously a graduate researcher at Amazon, IBM, and [ILLC](https://www.illc.uva.nl/) where I worked with [prof. dr. Raquel Fernández](https://staff.fnwi.uva.nl/r.fernandezrovira/) and [Sandro Pezzelle](https://sandropezzelle.github.io/).
-
 
 Currently:
 - building [Neena](https://neena.io/)
 - learning about AI alignment and mechanistic interpretability 
+
+Previously:
+- graduate researcher at IBM Amsterdam, Amazon Berlin where I worked with [Michael Brückner](https://scholar.google.de/citations?user=5ZyZ9JwAAAAJ&hl=de), and [ILLC](https://www.illc.uva.nl/) where I worked with [prof. dr. Raquel Fernández](https://staff.fnwi.uva.nl/r.fernandezrovira/) and [Sandro Pezzelle](https://sandropezzelle.github.io/)
