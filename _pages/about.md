@@ -18,8 +18,6 @@ social: true # includes social icons at the bottom of the page
 
 AI engineer based in Amsterdam 🇳🇱, originally from [Curaçao 🇨🇼](https://en.wikipedia.org/wiki/Cura%C3%A7ao).
 
-Fascinated by intelligence, both its artificial and biological emergence.
-
 I love music, writing, and languages.
 
 Currently:
