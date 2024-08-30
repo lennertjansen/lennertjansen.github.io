@@ -21,7 +21,7 @@ AI engineer based in Amsterdam 🇳🇱, originally from [Curaçao 🇨🇼](htt
 I love music, writing, and languages.
 
 Currently:
-- building [Neena](https://neena.io/)
+- building [neena](https://neena.io/)
 - learning how to build interpreters and compilers
 - learning about AI alignment and mechanistic interpretability 
 
