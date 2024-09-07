@@ -3,7 +3,7 @@
     "name": "Lennert Jansen",
     "label": "AI Engineer",
     "image": "",
-    "email": "lennertjansen95@gmail.com",
+    "email": "",
     "phone": "",
     "url": "https://lennert.ai/",
     "summary": "",
@@ -29,8 +29,8 @@
       "url": "https://neena.io/",
       "startDate": "2024-02",
       "endDate": "now",
-      "summary": "Co-founded Neena, where we build intelligent workflow automation.",
-      "highlights": ["AI", "Autonomous Agents"]
+      "summary": "Co-founded Neena, an app to create your own virtual assistant.",
+      "highlights": ["LLMs"]
     }
   ],
   "volunteer": [],
