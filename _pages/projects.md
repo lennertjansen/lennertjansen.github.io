@@ -1,6 +1,6 @@
 ---
 layout: page
-title: projects (wip)
+title: projects
 permalink: /projects/
 description: (under construction)
 nav: true
