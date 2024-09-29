@@ -18,7 +18,7 @@ social: true # includes social icons at the bottom of the page
 
 AI engineer based in Amsterdam 🇳🇱, originally from [Curaçao 🇨🇼](https://en.wikipedia.org/wiki/Cura%C3%A7ao).
 
-I love music, writing, and languages.
+I love music, coding, writing, and languages.
 
 Currently:
 - building [neena](https://neena.io/)
