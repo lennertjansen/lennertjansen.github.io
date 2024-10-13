@@ -18,7 +18,7 @@ jobs:
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: "3.2.2"
-          bundler-cache: true
+          bundler-cache: false # Disable automatic bundle install
       - name: Update _config.yml ⚙️
         uses: fjogeleit/yaml-update-action@main
         with:
@@ -31,8 +31,10 @@ jobs:
             }
       - name: Install and Build 🔧
         run: |
+          bundle lock --add-platform x86_64-linux
           pip3 install --upgrade jupyter
           export JEKYLL_ENV=production
+          bundle install
           bundle exec jekyll build --lsi
       - name: Purge unused CSS 🧹
         run: |
