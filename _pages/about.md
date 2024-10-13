@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 
+subtitle:
 
 profile:
   align: right
@@ -21,9 +21,11 @@ AI engineer based in Amsterdam 🇳🇱, originally from [Curaçao 🇨🇼](htt
 I love music, coding, writing, and languages.
 
 Currently:
+
 - building [neena](https://neena.io/)
 - learning how to build interpreters and compilers
-- learning about AI alignment and mechanistic interpretability 
+- learning about AI alignment and mechanistic interpretability
 
 Previously:
+
 - researcher at IBM Amsterdam, Amazon Berlin where I worked with [Michael Brückner](https://scholar.google.de/citations?user=5ZyZ9JwAAAAJ&hl=de), and [ILLC](https://www.illc.uva.nl/) where I worked with [prof. dr. Raquel Fernández](https://staff.fnwi.uva.nl/r.fernandezrovira/) and [Sandro Pezzelle](https://sandropezzelle.github.io/)

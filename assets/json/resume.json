@@ -55,7 +55,7 @@
       "startDate": "2018-09",
       "endDate": "2020-04",
       "score": "8.2 / 10.0",
-      "courses": ["Bayesian Econometrics","Advanced Statistics", "Advanced Microeconometrics"]
+      "courses": ["Bayesian Econometrics", "Advanced Statistics", "Advanced Microeconometrics"]
     }
   ],
   "awards": [],
@@ -66,10 +66,7 @@
       "name": "Deep Learning",
       "level": "Advanced",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Natural Language Processing",
-        "Large Language Models"
-      ]
+      "keywords": ["Natural Language Processing", "Large Language Models"]
     }
   ],
   "languages": [
@@ -103,14 +100,7 @@
     {
       "name": "",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ]
+      "keywords": ["", "", "", "", "", ""]
     }
   ],
   "references": [],
