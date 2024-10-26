@@ -28,4 +28,7 @@ Currently:
 
 Previously:
 
-- researcher at IBM Amsterdam, Amazon Berlin where I worked with [Michael Brückner](https://scholar.google.de/citations?user=5ZyZ9JwAAAAJ&hl=de), and [ILLC](https://www.illc.uva.nl/) where I worked with [prof. dr. Raquel Fernández](https://staff.fnwi.uva.nl/r.fernandezrovira/) and [Sandro Pezzelle](https://sandropezzelle.github.io/)
+- researcher at
+  - IBM Amsterdam;
+  - Amazon Berlin where I worked with [Michael Brückner](https://scholar.google.de/citations?user=5ZyZ9JwAAAAJ&hl=de);
+  - [ILLC](https://www.illc.uva.nl/) where I worked with [prof. dr. Raquel Fernández](https://staff.fnwi.uva.nl/r.fernandezrovira/) and [Sandro Pezzelle](https://sandropezzelle.github.io/).
