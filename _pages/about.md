@@ -22,13 +22,15 @@ I love music, coding, writing, and languages.
 
 Currently:
 
-- building [neena](https://neena.io/)
-- learning how to build interpreters and compilers
-- learning about AI alignment and mechanistic interpretability
+- building [neena](https://neena.io/);
+- learning Go;
+- learning how to build interpreters and compilers;
+- learning about AI alignment and mechanistic interpretability;
 
 Previously:
 
+- AI engineer at Attendi
 - researcher at
-  - IBM Amsterdam;
   - Amazon Berlin where I worked with [Michael Brückner](https://scholar.google.de/citations?user=5ZyZ9JwAAAAJ&hl=de);
   - [ILLC](https://www.illc.uva.nl/) where I worked with [prof. dr. Raquel Fernández](https://staff.fnwi.uva.nl/r.fernandezrovira/) and [Sandro Pezzelle](https://sandropezzelle.github.io/).
+  - IBM Amsterdam;
