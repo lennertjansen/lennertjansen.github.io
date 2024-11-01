@@ -24,13 +24,12 @@ Currently:
 
 - building [neena](https://neena.io/);
 - learning Go;
-- learning how to build interpreters and compilers;
-- learning about AI alignment and mechanistic interpretability;
+- learning how to build interpreters and compilers.
 
 Previously:
 
-- AI engineer at Attendi
-- researcher at
-  - Amazon Berlin where I worked with [Michael Brückner](https://scholar.google.de/citations?user=5ZyZ9JwAAAAJ&hl=de);
-  - [ILLC](https://www.illc.uva.nl/) where I worked with [prof. dr. Raquel Fernández](https://staff.fnwi.uva.nl/r.fernandezrovira/) and [Sandro Pezzelle](https://sandropezzelle.github.io/).
-  - IBM Amsterdam;
+- AI engineer at Attendi;
+- AI researcher at
+  - Amazon Berlin, where I worked with [Michael Brückner](https://scholar.google.de/citations?user=5ZyZ9JwAAAAJ&hl=de);
+  - [ILLC](https://www.illc.uva.nl/), where I worked with [prof. dr. Raquel Fernández](https://staff.fnwi.uva.nl/r.fernandezrovira/) and [Sandro Pezzelle](https://sandropezzelle.github.io/);
+  - IBM Amsterdam, where I worked with [Zoltán Szlávik](https://scholar.google.com/citations?user=CmAqTJ4AAAAJ&hl=en).
