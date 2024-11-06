@@ -24,7 +24,7 @@ Currently:
 
 - building [neena](https://neena.io/);
 - learning [Go](https://go.dev/);
-- learning how to build interpreters and compilers.
+- learning how to write [interpreters](https://interpreterbook.com/).
 
 Previously:
 
