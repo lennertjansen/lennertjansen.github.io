@@ -22,14 +22,12 @@ I love music, coding, writing, and languages.
 
 Currently:
 
-- building [neena](https://neena.io/);
-- learning [Go](https://go.dev/);
-- learning how to write [interpreters](https://interpreterbook.com/).
+- building [neena](https://neena.io/)
 
 Previously:
 
-- AI engineer at [Attendi](https://attendi.nl/en/attendi-english/);
+- AI engineer at [Attendi](https://attendi.nl/en/attendi-english/)
 - AI researcher at
-  - Amazon Berlin, where I worked with [Michael Brückner](https://scholar.google.de/citations?user=5ZyZ9JwAAAAJ&hl=de);
-  - [ILLC](https://www.illc.uva.nl/), where I worked with [prof. dr. Raquel Fernández](https://staff.fnwi.uva.nl/r.fernandezrovira/) and [Sandro Pezzelle](https://sandropezzelle.github.io/);
-  - IBM Amsterdam, where I worked with [Zoltán Szlávik](https://scholar.google.com/citations?user=CmAqTJ4AAAAJ&hl=en).
+  - Amazon Berlin, where I worked with [Michael Brückner](https://scholar.google.de/citations?user=5ZyZ9JwAAAAJ&hl=de)
+  - [ILLC](https://www.illc.uva.nl/), where I worked with [prof. dr. Raquel Fernández](https://staff.fnwi.uva.nl/r.fernandezrovira/) and [Sandro Pezzelle](https://sandropezzelle.github.io/)
+  - IBM Amsterdam, where I worked with [Zoltán Szlávik](https://scholar.google.com/citations?user=CmAqTJ4AAAAJ&hl=en)
