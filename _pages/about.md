@@ -6,23 +6,23 @@ subtitle:
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: # prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>📍 Amsterdam, NL</p>
+  # more_info: >
+  #   <p>📍 Amsterdam, NL</p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-AI engineer based in Amsterdam 🇳🇱, originally from [Curaçao 🇨🇼](https://en.wikipedia.org/wiki/Cura%C3%A7ao).
+I'm an AI engineer based in Amsterdam 🇳🇱, originally from [Curaçao 🇨🇼](https://en.wikipedia.org/wiki/Cura%C3%A7ao).
 
 I love music, coding, writing, and languages.
 
 Currently:
 
-- building [neena](https://neena.io/)
+- building [Neena](https://neena.io/)
 
 Previously:
 
