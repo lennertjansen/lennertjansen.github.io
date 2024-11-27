@@ -22,7 +22,7 @@ I love music, coding, writing, and languages.
 
 Currently:
 
-- building [Neena](https://neena.io/)
+- building [Neena](https://neena.io/), sign up for the waitlist! Launching soon.
 
 Previously:
 
