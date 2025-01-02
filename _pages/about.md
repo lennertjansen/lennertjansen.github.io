@@ -23,7 +23,7 @@ I love music, coding, writing, and languages.
 Currently:
 
 - building [Neena](https://neena.io/). Try it out at [app.neena.io](https://app.neena.io/)
-- working on [Airweave](https://github.com/airweave-ai/airweave)
+- working on Airweave, check out the repo [here](https://github.com/airweave-ai/airweave), and the demo at [airweave.ai](https://airweave.lovable.app/).
 
 Previously:
 
