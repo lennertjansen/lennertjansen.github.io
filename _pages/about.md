@@ -23,6 +23,7 @@ I love music, coding, writing, and languages.
 Currently:
 
 - Helping developers turn any app into AI agent knowledge with [Airweave](https://github.com/airweave-ai/airweave).
+  - [Book a demo](https://cal.com/lennert-airweave/30min)
 
 Previously:
 
