@@ -22,12 +22,12 @@ I love music, coding, writing, and languages.
 
 Currently:
 
-- building [Neena](https://neena.io/). Try it out at [app.neena.io](https://app.neena.io/)
-- working on Airweave, check out the repo [here](https://github.com/airweave-ai/airweave), and the demo at [airweave.ai](https://airweave.lovable.app/).
+- Helping developers turn any app into AI agent knowledge with [Airweave](https://github.com/airweave-ai/airweave).
 
 Previously:
 
-- AI engineer at [Attendi](https://attendi.nl/en/attendi-english/)
+- Co-founder at [Neena](https://neena.io/) -> pivoted to [Airweave](https://github.com/airweave-ai/airweave)
+- AI engineer at [Attendi](https://attendi.nl/en/attendi-english/) where I worked on STT models and GPT-powered writing assistants
 - AI researcher at
   - Amazon Berlin, where I worked with [Michael Brückner](https://scholar.google.de/citations?user=5ZyZ9JwAAAAJ&hl=de)
   - [ILLC](https://www.illc.uva.nl/), where I worked with [prof. dr. Raquel Fernández](https://staff.fnwi.uva.nl/r.fernandezrovira/) and [Sandro Pezzelle](https://sandropezzelle.github.io/)
