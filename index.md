@@ -5,18 +5,14 @@ title: Lennert Jansen
 
 # Lennert Jansen
 
-I'm an engineer at [Airweave](https://airweave.ai), where we build
-context retrieval infrastructure for AI agents.
+I'm co-founder & CEO of [Airweave (YC P25)](https://airweave.ai), where we build
+context retrieval infrastructure for AI agents. Based in San Francisco and Amsterdam.
 
-Before that I studied AI at the University of Amsterdam and worked
-on machine learning. Based in Amsterdam.
+Before that, I did Deep Learning at Amazon, IBM, and the University of Amsterdam's [Institute for Logic, Language and Computation](https://www.illc.uva.nl/).
 
-## Links
+My name is pronounced exactly like you would pronounce "Leonard" in English, as in "Leonard Cohen". I'm originally from Curaçao. In my free time, I enjoy playing guitar, tennis, football, and language learning.
 
-- [GitHub](https://github.com/lennertjansen)
-- [LinkedIn](https://www.linkedin.com/in/lennertjansen)
-- [X](https://x.com/lennertjansen)
+You can find me on [X](https://x.com/lennertjansen), [GitHub](https://github.com/lennertjansen), [LinkedIn](https://www.linkedin.com/in/lennertjansen), and [Google Scholar](https://scholar.google.com/citations?user=XbsV_kgAAAAJ&hl=en).
 
-## Contact
 
-lennert [at] airweave [dot] ai
+You can reach me at first name + first three letters of last name + last name [at] gmail [dot] com
