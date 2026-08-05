@@ -1,0 +1,4 @@
+title: Lennert Jansen
+markdown: kramdown
+exclude:
+  - README.md
