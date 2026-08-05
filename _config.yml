@@ -1,4 +1,8 @@
 title: Lennert Jansen
+description: "Lennert Jansen, co-founder & CEO of Airweave (YC P25). Context retrieval infrastructure for AI agents. Previously deep learning at Amazon, Adyen, IBM, and the University of Amsterdam."
+url: https://lennertjansen.com
 markdown: kramdown
+plugins:
+  - jekyll-sitemap
 exclude:
   - README.md

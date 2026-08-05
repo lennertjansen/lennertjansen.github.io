@@ -4,6 +4,40 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ page.title | default: site.title }}</title>
+  <meta name="description" content="{{ page.description | default: site.description }}">
+  <link rel="canonical" href="{{ page.url | absolute_url }}">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="{{ page.title | default: site.title }}">
+  <meta property="og:description" content="{{ page.description | default: site.description }}">
+  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="@lennertjansen">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "Lennert Jansen",
+    "alternateName": ["Lennert Jan Jansen", "Lennard Jansen", "Lennert Janssen", "Leonard Jansen"],
+    "url": "https://lennertjansen.com",
+    "jobTitle": "Co-founder & CEO",
+    "worksFor": {
+      "@type": "Organization",
+      "name": "Airweave",
+      "url": "https://airweave.ai"
+    },
+    "alumniOf": {
+      "@type": "CollegeOrUniversity",
+      "name": "University of Amsterdam"
+    },
+    "birthPlace": "Curaçao",
+    "sameAs": [
+      "https://x.com/lennertjansen",
+      "https://github.com/lennertjansen",
+      "https://www.linkedin.com/in/lennertjansen",
+      "https://scholar.google.com/citations?user=XbsV_kgAAAAJ"
+    ]
+  }
+  </script>
   <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
   <link rel="icon" href="/assets/favicon.png" type="image/png" sizes="180x180">
   <link rel="apple-touch-icon" href="/assets/favicon.png">
